@@ -144,28 +144,11 @@ nav ul li a:hover{
 }
 
 
-
-
-
-footer{
-    clear: both;
-    background-color: #002c48;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    margin-top: 20px;
-}
-
-
-
 footer a{
     color: #ffffff;
     text-decoration: none;
     font-size: 22px;
 }
-
-
-
-
 
 footer a:hover{
     text-decoration: underline;
@@ -196,4 +179,82 @@ footer a:hover{
 }
 
 
+
+#contenedorRecuperar{
+    clear: both;
+}
+
+
+#contenedorRecuperar table{
+    width: 50%;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000000;
+}
+
+
+
+#contenedorRecuperar table th p{
+    font-size: 30px;
+    color: #656565;
+}
+
+
+
+
+
+#contenedorRecuperar table th label{
+    font-size: 20px;
+    color: #656565;
+}
+
+
+
+
+
+
+
+#contenedorRecuperar table a{
+    color: #0061a0;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+
+
+
+
+.camposForm{
+    width: 100%;
+    font-size: 30px;
+    border-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+.espacioCamposForm{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+
+
+
+
+.boton{
+    font-size: 28px;
+    background-color: #0061a0;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
 
